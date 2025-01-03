@@ -5,7 +5,7 @@ Features:
 
 Added animations for better user experience.
 
-To launch your react project in your browser,
+To launch the react project in your browser,
 
 1. Download Node.js
 
@@ -16,5 +16,3 @@ To launch your react project in your browser,
 // to install the node module
 
     npm run dev
-
-// to launch your react project in your browser
